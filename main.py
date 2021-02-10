@@ -4,3 +4,5 @@ print("Hello from Fargo")
 
 
 a = 12
+
+a = 101
